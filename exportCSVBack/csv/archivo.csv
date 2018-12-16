@@ -1,0 +1,13 @@
+nameClient;city;nif;month;year;numberBill;price 
+Ale;Sevilla;12122332N;1 - Enero;2017;FACT00001;47.79 
+Ale;Sevilla;12122332N;2 - Febrero;2017;FACT00002;51.86 
+Ale;Sevilla;12122332N;3 - Marzo;2017;FACT00003;39.66 
+Ale;Sevilla;12122332N;4 - Abril;2017;FACT00004;56.19 
+Ale;Sevilla;12122332N;5 - Mayo;2017;FACT00005;23.43 
+Ale;Sevilla;12122332N;6 - Junio;2017;FACT00006;45.18 
+Carmen;Cordoba;99887788T;1 - Enero;2017;FACT00007;89.61
+Carmen;Cordoba;99887788T;2 - Febrero;2017;FACT00008;44.71
+Carmen;Cordoba;99887788T;3 - Marzo;2017;FACT00009;39.76 
+Carmen;Cordoba;99887788T;4 - Abril;2017;FACT000010;22.45 
+Carmen;Cordoba;99887788T;5 - Mayo;2017;FACT000011;129.43 
+Carmen;Cordoba;99887788T;6 - Junio;2017;FACT000012;97.12 
